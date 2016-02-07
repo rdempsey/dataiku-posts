@@ -8,7 +8,7 @@ In order to run the code and sample projects, you'll need a few things:
 
 1. [Python](https://www.continuum.io/downloads) >= 3.5.1
 2. [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) >= 1.8.0_74
-3. [Data Science Studio](www.dataiku.com/dss/?ref=robertwdempsey) >= 2.2.3
+3. [Data Science Studio](http://www.dataiku.com/dss/?ref=robertwdempsey) >= 2.2.3
 
 ##What You'll Find
 
