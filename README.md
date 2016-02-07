@@ -1,10 +1,10 @@
 #Dataiku Post Code and Projects
 
-This repo contains the code and project files for my post on the [Dataiku blog](http://www.dataiku.com/blog/). They work for me, and should work for you. Use them wisely, and enjoy!
+This repo contains the code and project files for my posts on the [Dataiku blog](http://www.dataiku.com/blog/). They work for me, and should work for you. Use them wisely, and enjoy!
 
 ##Requirements
 
-In order to run the code and sample projects, you'll need two things:
+In order to run the code and sample projects, you'll need a few things:
 
 1. [Python](https://www.continuum.io/downloads) >= 3.5.1
 2. [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) >= 1.8.0_74
